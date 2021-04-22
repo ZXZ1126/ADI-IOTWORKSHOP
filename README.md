@@ -1,2 +1,4 @@
 # ADI-IOTWORKSHOP
 WEARABLE WORKSHOP 
+m5 stick c
+Arduino
